@@ -3,4 +3,4 @@
 
 ## Example
 > #### Sample Usage
-![Russian Typer by Apoorv Verma [AP] on Github | @avdaredevil](https://cloud.githubusercontent.com/assets/5303018/22517819/6b166246-e878-11e6-9037-dd01f6ac4e34.png)
+![Russian Typer by Apoorv Verma [AP] on Github | @avdaredevil](https://cloud.githubusercontent.com/assets/5303018/22886452/f4ed1792-f1cb-11e6-9846-77b6c19519d9.png)
